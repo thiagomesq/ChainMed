@@ -36,3 +36,19 @@ Você pode publicar o projeto em qualquer serviço de hospedagem estática que s
 -GitHub Pages
 -Render
 
+Tela principal
+![image](https://github.com/user-attachments/assets/24193083-98b0-4583-b580-daa00da20196)
+
+Tela prescricao (medico)
+![image](https://github.com/user-attachments/assets/b6f963d0-fcd6-4f15-900b-0da61b43747a)
+![image](https://github.com/user-attachments/assets/4e924d32-13a9-41a7-8c5e-a7d4af1f610f)
+![image](https://github.com/user-attachments/assets/00ddc548-c325-4b07-bebf-90c1b5e14f02)
+![image](https://github.com/user-attachments/assets/e095a140-b1c5-4fe6-9b49-7ec4d98b32f7)
+
+Tela paciente
+![image](https://github.com/user-attachments/assets/f87fb87d-2e8a-4c56-9578-31c10ad78891)
+![image](https://github.com/user-attachments/assets/abe16171-a853-4230-b25b-a14edacacac2)
+![image](https://github.com/user-attachments/assets/d7ec1d18-93a1-44c3-8639-4d5c7f81fdc5)
+![image](https://github.com/user-attachments/assets/77ee4c22-eb53-4698-8d3c-a7ea52d2e8c0)
+
+
