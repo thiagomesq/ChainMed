@@ -15,13 +15,13 @@ Requisitos:
 
 Passo a passo:
 sh
-# 1. Clone o repositório com a URL do seu projeto
+#### 1. Clone o repositório com a URL do seu projeto
 git clone <URL_DO_SEU_REPOSITORIO>
-# 2. Acesse o diretório do projeto
+#### 2. Acesse o diretório do projeto
 cd <NOME_DO_DIRETORIO>
-# 3. Instale as dependências
+#### 3. Instale as dependências
 npm install
-# 4. Inicie o servidor de desenvolvimento
+#### 4. Inicie o servidor de desenvolvimento
 npm run dev
 Após isso, o projeto estará disponível localmente em: http://localhost:5173 (ou outra porta que o Vite informar).
 
