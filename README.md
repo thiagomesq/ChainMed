@@ -1,6 +1,6 @@
-ChainMed: Projeto React com Vite, Tailwind e shadcn-ui
+#### ChainMed: Projeto React com Vite, Tailwind e shadcn-ui
 
-####Tecnologias utilizadas
+#### Tecnologias utilizadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 - TypeScript
@@ -8,7 +8,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - shadcn/ui
 - Tailwind CSS
 
-####Como rodar o projeto localmente
+#### Como rodar o projeto localmente
 Requisitos:
 - Node.js instalado (recomenda-se usar via nvm)
 - npm (vem junto com o Node.js)
@@ -25,11 +25,11 @@ npm install
 npm run dev
 Após isso, o projeto estará disponível localmente em: http://localhost:5173 (ou outra porta que o Vite informar).
 
-####Como editar o projeto
+#### Como editar o projeto
 Você pode editar o projeto usando qualquer editor de código de sua preferência, como Visual Studio Code.
 As alterações feitas serão refletidas automaticamente no navegador se o servidor de desenvolvimento estiver rodando.
 
-####Como fazer deploy
+#### Como fazer deploy
 Você pode publicar o projeto em qualquer serviço de hospedagem estática que suporte aplicações Vite, como:
 -Vercel
 -Netlify
